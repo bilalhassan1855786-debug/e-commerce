@@ -2,7 +2,7 @@
 import React from "react";
 import { FaGithub, FaFacebook, FaLinkedin, FaInstagram } from "react-icons/fa";
 import { SiTiktok } from "react-icons/si";
-
+import { SiGithub } from "react-icons/si";
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white p-4 text-center">
